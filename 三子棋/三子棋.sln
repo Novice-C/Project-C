@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "三子棋", "三子棋\三子棋.vcxproj", "{6F9EE9FB-AA88-4361-825B-DBCDE6B3E769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F9EE9FB-AA88-4361-825B-DBCDE6B3E769}.Debug|x64.ActiveCfg = Debug|x64
+		{6F9EE9FB-AA88-4361-825B-DBCDE6B3E769}.Debug|x64.Build.0 = Debug|x64
+		{6F9EE9FB-AA88-4361-825B-DBCDE6B3E769}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F9EE9FB-AA88-4361-825B-DBCDE6B3E769}.Debug|x86.Build.0 = Debug|Win32
+		{6F9EE9FB-AA88-4361-825B-DBCDE6B3E769}.Release|x64.ActiveCfg = Release|x64
+		{6F9EE9FB-AA88-4361-825B-DBCDE6B3E769}.Release|x64.Build.0 = Release|x64
+		{6F9EE9FB-AA88-4361-825B-DBCDE6B3E769}.Release|x86.ActiveCfg = Release|Win32
+		{6F9EE9FB-AA88-4361-825B-DBCDE6B3E769}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96B371E1-7C30-420E-BF2D-D17E66C77A46}
+	EndGlobalSection
+EndGlobal
